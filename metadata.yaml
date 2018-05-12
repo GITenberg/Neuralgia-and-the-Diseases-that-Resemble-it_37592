@@ -1,0 +1,29 @@
+_repo: Neuralgia-and-the-Diseases-that-Resemble-it_37592
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anstie, Francis Edmund
+    alias: Anstie, Francis E.
+    birthdate: 1833
+    deathdate: 1874
+    gutenberg_agent_id: '38935'
+    url: http://www.gutenberg.org/2009/agents/38935
+    wikipedia: http://en.wikipedia.org/wiki/Francis_E._Anstie
+description: ''
+gutenberg_issued: '2011-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37592'
+  lccn: '32013723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Neuralgia'
+- !lcc 'RC'
+title: Neuralgia and the Diseases that Resemble it
+url: http://www.gutenberg.org/ebooks/37592
